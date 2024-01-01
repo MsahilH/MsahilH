@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Monpara SAHIL</h1>
+<h1 align="center">Monpara SAHIL</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MsahilH&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning about **FULL STACK DEVELOPER (MERN/NEXT)**
+- 🌱 I’m currently working as **FULL STACK DEVELOPER (MERN/NEXT)**
 
 - 👨‍💻 All of my projects are available [here](https://monpara-sahil-port.netlify.app/)
 
 - 💬 Ask me about **Javascript** & **MERN**
 
-- 📫 How to reach me **sahilmonparah@gmail.com**
+- 📫 Reach me out : **sahilmonparah@gmail.com**
 
 
 ### 🛠 &nbsp;Languages and Tools
